@@ -16,3 +16,6 @@ A Python project that checks the strength of passwords.
 Run the program using:
 
 python password_checker.py
+## Screenshot
+
+![Password Strength Checker Output](password-checker-output.png)
